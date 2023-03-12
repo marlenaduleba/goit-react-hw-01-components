@@ -1,0 +1,21 @@
+.transactionHistory {
+    background-color: #f8f9fa;
+    width: 100%;
+    text-align: center;
+  }
+  
+  .thead {
+    background-color: #495057;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+  }
+  
+  .tbody td {
+    padding: 15px;
+    color: #6c757d;
+  }
+
+  .trow:nth-child(even) {
+    background-color: #e9ecef;
+  }
